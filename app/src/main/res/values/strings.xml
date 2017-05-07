@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Sign In</string>
+    <string name="text">Sign in with a Microsoft Account</string>
+    <string name="text1">Create an Account</string>
+
+</resources>
