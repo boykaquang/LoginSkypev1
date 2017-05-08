@@ -8,6 +8,7 @@
     >
 
    <ImageView
+       android:id="@+id/img_skype"
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
        android:src="@drawable/sky"
@@ -36,6 +37,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
         <Button
+            android:id="@+id/btb_s"
             android:layout_margin="10dp"
             android:text="@string/button"
             android:layout_width="match_parent"
